@@ -1,0 +1,18 @@
+[
+  {
+    "id": "id loaded",
+    "name": "name loaded",
+    "appId": "appID loaded",
+    "publishTime": "2019-10-03T19:40:15.384Z",
+    "published": true,
+    "stream": {
+      "id": "streamId loaded",
+      "name": "stream name loaded",
+      "privileges": null
+    },
+    "savedInProductVersion": "version loaded",
+    "migrationHash": "migration hash loaded",
+    "availabilityStatus": 0,
+    "privileges": null
+  }
+]
