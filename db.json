@@ -15,7 +15,7 @@
       "name": "App  2",
       "appId": 2,
       "stream": {
-        "id": 3,
+        "id": 2,
         "name": "Stream 2",
         "privileges": "False"
       }
