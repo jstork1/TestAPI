@@ -1,12 +1,13 @@
 {
   "App 0": [
-    "id": "id loaded",
+    {"id": "id loaded",
     "name": "name loaded",
     "appId": "appID loaded",
     "stream": {
       "id": "streamId loaded",
       "name": "stream name loaded",
       "privileges": null
-    } 
+    }
+    }
   ]
 }
