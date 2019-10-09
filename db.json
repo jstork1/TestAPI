@@ -1,35 +1,46 @@
 {
-  "App 1": [
-      {"id": 1,
-      "name": "App 1",
-      "appId": 1,
-      "stream": {
-        "id": 1,
-        "name": "Stream 1",
-        "privileges": null
-      }
-    }
-  ],
-    "App 2": [
-      {"id": 2,
-      "name": "App 2",
-      "appId": 2,
-      "stream": {
-        "id": 2,
-        "name": "Stream 2",
-        "privileges": null
-      }
-    }
-  ],
+  "Apps": [
+    {
+      "App 1": [
+        {
+          "id": 1,
+          "name": "App 1",
+          "appId": 1,
+          "stream": {
+            "id": 1,
+            "name": "Stream 1",
+            "privileges": "False"
+          }
+        }
+      ]
+    },
+    {
+      "App 2": [
+        {
+          "id": 2,
+          "name": "App 2",
+          "appId": 2,
+          "stream": {
+            "id": 2,
+            "name": "Stream 2",
+            "privileges": "False"
+          }
+        }
+      ]
+    },
+    {
       "App 3": [
-      {"id": 3,
-      "name": "App 3",
-      "appId": 3,
-      "stream": {
-        "id": 3,
-        "name": "Stream 3",
-        "privileges": null
-      }
+        {
+          "id": 3,
+          "name": "App 3",
+          "appId": 3,
+          "stream": {
+            "id": 3,
+            "name": "Stream 3",
+            "privileges": "False"
+          }
+        }
+      ]
     }
   ]
 }
